@@ -1,13 +1,5 @@
 {
   "files": {
-    "index.js": [
-      {
-        "id": "db23ef0b-b20f-481f-9358-83414d1c0843",
-        "line": 4,
-        "version": 880,
-        "index": 89
-      }
-    ],
     "views/game.html": [
       {
         "id": "8950db6f-9afe-4942-9b6b-2d7b27ffe4f8",
